@@ -1,4 +1,3 @@
-# comentario de teste
 import math
 
 class Calculadora:
